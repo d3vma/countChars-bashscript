@@ -1,5 +1,5 @@
 #!/bin/bash
 # Count Chars
-echo Hello, enter your string/chars
+echo Hello, enter your string/characters
 read stringInput
-echo Number of you chars is  ${#stringInput}
+echo The number of your characters is  ${#stringInput}
